@@ -1,0 +1,48 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "上海海洋水族馆",
+    "pase":"上海市浦东新区陆家嘴环路1388号(近东方明珠)",
+    "bannerImg": "//img1.qunarzz.com/sight/p0/1412/9f/fbff2a5302c0ce906ef9b64159730f89.water.jpg_600x330_b9a742ef.jpg",
+    "gallaryImgs":["http://img1.qunarzz.com/sight/p0/1412/9f/fbff2a5302c0ce906ef9b64159730f89.water.jpg_r_800x800_de6503c8.jpg",
+      "http://img1.qunarzz.com/sight/p0/201301/08/c467cdd5848562ef93835fbb.jpg_r_800x800_761bb637.jpg",
+      "http://img1.qunarzz.com/sight/p0/1506/38/0b27cc769af006603c07e1e742c219fb.water.jpg_r_800x800_0ab47baa.jpg",
+    "http://img1.qunarzz.com/sight/p0/1412/2c/c633c219335726cb27b33c887997b1fc.water.jpg_r_800x800_3ea3f1ec.jpg",
+    "http://img1.qunarzz.com/sight/p0/1412/46/5d2cadbd92fa49150dda2aa86dc8ca11.water.jpg_r_800x800_b351a08c.jpg"
+    ],
+    "week":[{
+      "id":"001",
+      "title":"上海海洋水族馆+东方明珠广播电视塔",
+      "mony":"278"
+    },
+    {
+      "id":"002",
+      "title":"【上海玛雅海滩水公园成人夜场票】",
+      "mony":"180"
+    },
+    {
+      "id":"003",
+      "title":"【上海玛雅海滩水公园儿童全日票】",
+      "mony":"140"
+    }],
+    "list":[{
+      "id":"001",
+      "title":"成人票",
+      "one":"上海玛雅海滩水公园成人全日票",
+      "two":"上海玛雅海滩水公园成人夜场票",
+      "mony":["210","180"]
+    },{
+      "id":"002",
+      "title":"儿童/老人票",
+      "one":"上海玛雅海滩水公园儿童全日票",
+      "two":"上海玛雅海滩水公园老人全日票",
+      "mony":["140","120"]
+    },{
+      "id":"003",
+      "title":"【热销联票】",
+      "one":"上海玛雅海滩水公园日场+欢乐谷夜场",
+      "two":"上海玛雅海滩水公园日场+迪士尼夜场",
+      "mony":["270","380"]
+    }]
+}
+}

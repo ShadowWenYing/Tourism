@@ -1,0 +1,45 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "上海迪士尼乐园",
+    "pase":"上海市浦东新区川沙新镇上海迪士尼度假区内",
+    "bannerImg": "//img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_600x330_8572a930.jpg",
+    "gallaryImgs":["http://img1.qunarzz.com/sight/p0/1711/1e/1e5eaf5ac11a1dea3.img.jpg_r_800x800_e7892537.jpg",
+      "http://img1.qunarzz.com/sight/p0/1711/d9/d9119bcadf6045f5a3.img.jpg_r_800x800_8628ce0c.jpg",
+      "http://img1.qunarzz.com/sight/p0/1711/da/dac7cd5bfa983877a3.img.jpg_r_800x800_7aec58e7.jpg"],
+    "week":[{
+      "id":"001",
+      "title":"上海迪士尼一日游+导游陪同入园+免费童车",
+      "mony":"408"
+    },
+    {
+      "id":"002",
+      "title":"【7.16-7.31限量特惠】上海迪士尼成人票限购",
+      "mony":"399"
+    },
+    {
+      "id":"003",
+      "title":"【7.16-7.30限时5折】上海迪士尼二日联票（成人）",
+      "mony":"575"
+    }],
+    "list":[{
+      "id":"001",
+      "title":"奇跑迪士尼【数量有限，售完即止】",
+      "one":"3.5KM奇跑迪士尼参赛者专享乐园",
+      "two":"4.5KM奇跑迪士尼参赛者专享乐园",
+      "mony":["732","802"]
+    },{
+      "id":"002",
+      "title":"特惠票【数量有限，售完即止】",
+      "one":"【7.16-7.30限量特惠】成人二日票",
+      "two":"【7.16-7.31限时7折优惠】成人票",
+      "mony":["529","399"]
+    },{
+      "id":"003",
+      "title":"下午场【数量有限，售完即止】",
+      "one":"【夏季平日下午场】成人票",
+      "two":"【夏季平日下午场】老人儿童票",
+      "mony":["270","239"]
+    }]
+}
+}

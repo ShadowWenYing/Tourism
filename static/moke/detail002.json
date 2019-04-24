@@ -1,0 +1,49 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "上海玛雅海滩公园",
+    "pase":"上海市松江区佘山镇林湖路佘山国家旅游度假区",
+    "bannerImg": "//img1.qunarzz.com/sight/p0/1506/30/7a528fae12c17e6e29d5d13a9d9813ee.water.jpg_600x330_866232e3.jpg",
+    "gallaryImgs":["http://img1.qunarzz.com/sight/p0/1506/30/7a528fae12c17e6e29d5d13a9d9813ee.water.jpg_r_800x800_47582402.jpg",
+      "http://img1.qunarzz.com/sight/p0/1506/dd/7659217cc529114eba75b42ace21ca4a.water.jpg_r_800x800_9456bcaa.jpg",
+      "http://img1.qunarzz.com/sight/p0/1506/38/0b27cc769af006603c07e1e742c219fb.water.jpg_r_800x800_0ab47baa.jpg",
+    "http://img1.qunarzz.com/sight/p0/1506/ba/d25df17c5f6542e03695ba7b8bf766c4.water.jpg_r_800x800_ce4f6947.jpg",
+    "http://img1.qunarzz.com/sight/p0/1506/b9/0d356b635e50475966043c05a7792798.water.jpg_r_800x800_a0c11679.jpg",
+    "http://img1.qunarzz.com/sight/p0/1506/9f/e654025b560ec97e2be2c1c48427c9c9.water.jpg_r_800x800_33fdaee0.jpg"
+    ],
+    "week":[{
+      "id":"001",
+      "title":"【上海玛雅海滩水公园成人全日票】",
+      "mony":"210"
+    },
+    {
+      "id":"002",
+      "title":"【上海玛雅海滩水公园成人夜场票】",
+      "mony":"180"
+    },
+    {
+      "id":"003",
+      "title":"【上海玛雅海滩水公园儿童全日票】",
+      "mony":"140"
+    }],
+    "list":[{
+      "id":"001",
+      "title":"成人票",
+      "one":"上海玛雅海滩水公园成人全日票",
+      "two":"上海玛雅海滩水公园成人夜场票",
+      "mony":["210","180"]
+    },{
+      "id":"002",
+      "title":"儿童/老人票",
+      "one":"上海玛雅海滩水公园儿童全日票",
+      "two":"上海玛雅海滩水公园老人全日票",
+      "mony":["140","120"]
+    },{
+      "id":"003",
+      "title":"【热销联票】",
+      "one":"上海玛雅海滩水公园日场+欢乐谷夜场",
+      "two":"上海玛雅海滩水公园日场+迪士尼夜场",
+      "mony":["270","380"]
+    }]
+}
+}
